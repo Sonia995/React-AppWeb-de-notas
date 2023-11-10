@@ -1,3 +1,6 @@
+Frontend React de una aplicación web sencilla de notas. Versión inicial
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
